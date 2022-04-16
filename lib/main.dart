@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'app_brain.dart';
 import 'package:rflutter_alert/rflutter_alert.dart';
-import 'package:audioplayers/audioplayers.dart';
-import 'package:audioplayers/src/audio_cache.dart';
 
 void main() {
   runApp(MyApp());
@@ -68,8 +66,6 @@ class _ExamPageState extends State<ExamPage> {
         ));
       }
       if (_appBrain.questFinish() == true) {
-        final Player = AudioCache();
-        Player.play('songs/win.mp3');
         Alert(
           context: context,
           type: AlertType.success,
