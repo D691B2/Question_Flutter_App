@@ -3,8 +3,8 @@
 ![](https://img.shields.io/badge/APP-Flutter%20%2B1-brightgreen)
 ![](https://img.shields.io/badge/Questions-APP%20-blue)
 
-<img width=300 src="https://i.ibb.co/VSVgWJs/Screenshot-02.png">
-<img width=300 src="https://i.ibb.co/MP4b4Ph/Screenshot-03.png">
+<img width=250 src="https://i.ibb.co/VSVgWJs/Screenshot-02.png">
+<img width=250 src="https://i.ibb.co/MP4b4Ph/Screenshot-03.png">
 
 # INSTALL
 ```bash
